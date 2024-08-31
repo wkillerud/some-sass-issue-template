@@ -1,0 +1,14 @@
+{
+  "name": "some-sass-issue-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Feel free to use this template repository if you are filing a bug report to Some Sass",
+  "scripts": {
+    "test": "sass src/styles.scss public/styles.css"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}

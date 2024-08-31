@@ -1,0 +1,7 @@
+@use "core/tokens";
+
+body {
+  background-color: tokens.$color-background;
+  color: tokens.$color-text;
+  font-family: 'Courier New', Courier, monospace;
+}
